@@ -1,3 +1,3 @@
 # freeCodeCamp
 
-Solving tasks freeCodeCamp
+Completed tasks freeCodeCamp for Javascript and html/css
