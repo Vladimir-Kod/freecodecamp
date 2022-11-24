@@ -1,0 +1,15 @@
+/*
+Access Array Data with Indexes
+We can access the data inside arrays using indexes.
+
+Array indexes are written in the same bracket notation that strings use, except that 
+instead of specifying a character, they are specifying an entry in the array. Like 
+strings, arrays use zero-based indexing, so the first element in an array has an index
+of 0.
+
+The variable myData should equal the first value of myArray.
+Waiting:The data in variable myArray should be accessed using bracket notation.
+*/
+
+const myArray = [50, 60, 70];
+var myData = myArray[0]
